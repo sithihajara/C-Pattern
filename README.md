@@ -21,8 +21,6 @@ Developed By : Sithi Hajara I
 Reg No : 212221230102
 ```
 ```
-DEVELOPED BY : Meena S
-REGESTER NUMBER : 212221240028
 using System;
 namespace PascalTriangleDemo
 {
